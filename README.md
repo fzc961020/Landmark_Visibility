@@ -1,6 +1,6 @@
 
 
-# Nighttime Street View Imagery
+# Image-based Visibility & Visual Relationship Analysis
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Repository for releasing the imagery and code used in **Image-based Visibility Analysis Replacing Line-of-Sight Simulation: An Urban Landmark Perspective**, developed by Zicheng Fan from [Urban Analytics Lab (UAL)](https://ual.sg/), National University of Singapore (NUS).
