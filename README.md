@@ -18,14 +18,14 @@ Fan, Z., Fujiwara, K., Liu, P., Zhang, F., Biljecki, F., 2025. Image-based Visib
 
 BibTeX:
 ```
-@article{fan_nighttime_2024,
-author = {Fan, Zicheng and Biljecki, Filip},
-doi = {10.1016/j.scs.2024.105862},
-journal = {Sustainable Cities and Society},
-pages = {105862},
-title = {Nighttime {Street} {View} {Imagery}: {A} new perspective for sensing urban lighting landscape},
-volume = {116},
-year = {2024}
+@misc{fan2025imagebasedvisibilityanalysisreplacing,
+      title={Image-based Visibility Analysis Replacing Line-of-Sight Simulation: An Urban Landmark Perspective}, 
+      author={Zicheng Fan and Kunihiko Fujiwara and Pengyuan Liu and Fan Zhang and Filip Biljecki},
+      year={2025},
+      eprint={2505.11809},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.11809}, 
 }
 ```
 
